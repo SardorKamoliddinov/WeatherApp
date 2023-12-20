@@ -8,4 +8,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## view
-you can use and review my project by https://sk99-weather.netlify.app/
+You can use and review my project by https://sk99-weather.netlify.app/
+
+## nescessary
+You must enter the country name correctly!!!
